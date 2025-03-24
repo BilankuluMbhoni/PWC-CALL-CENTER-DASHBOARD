@@ -17,6 +17,5 @@ Using **interactive slicers**, we can explore individual **agent performance**, 
 2. **Improve Response Time**: Reducing the **speed of answer** can directly impact satisfaction. Training agents or redistributing workload might be solutions.  
 3. **Monitor Call Handling Time**: With an average of **224.92 seconds**, identifying patterns in longer calls can help improve efficiency.  
 
-The last recorded call was on **March 31, 2021, at 17:39**. Now, it's time to dive into the insights using the **slicers** and make data-driven decisions for a better customer experience!  
-
-![Screenshot (8)](https://github.com/user-attachments/assets/19604704-d4cd-4791-b160-2d8d08365754)
+The last recorded call was on **March 31, 2021, at 17:39**. Now, it's time to dive into the insights using the **slicers** and make data-driven decisions for a better customer experience! 
+![Screenshot (8)](https://github.com/user-attachments/assets/33bbb997-05ea-4fc6-8718-963651ac4499)
