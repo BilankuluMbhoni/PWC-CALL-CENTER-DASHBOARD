@@ -1,5 +1,5 @@
 # PWC-CALL-CENTER-DASHBOARD
-### 📊 Call Center Dashboard - A Storytelling Report  
+### 📊 Call Center Dashboard 
 
 In a fast-paced call center environment, **efficiency, customer satisfaction, and quick issue resolution** are critical. This dashboard tells the story of how well our call center is performing and where we can improve.  
 
